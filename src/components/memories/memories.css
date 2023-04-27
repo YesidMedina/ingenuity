@@ -1,0 +1,70 @@
+.my-title {
+  text-align: center;
+  font-size: 50px;
+  color: #245086;
+  font-weight: 900;
+  margin-left: 15px;
+}
+
+.my-logo {
+  margin-left: 47.7%;
+  margin-top: 10%;
+}
+
+.my-images {
+  display: grid;
+  height: 80px;
+  grid-template-columns: 320px 400px 400px;
+  grid-gap: 6px;
+  justify-content: center;
+  margin-left: 25%;
+  width: 50%;
+  margin-top: 10px;
+}
+
+.my-images2 {
+  display: grid;
+  grid-template-columns: 400px 400px 300px;
+  grid-gap: 6px;
+  justify-content: center;
+  margin-left: 25%;
+  width: 50%;
+  margin-top: 140px;
+}
+
+.my-image {
+  border-radius: 20px;
+  height: 212px;
+}
+
+.my-image1,
+.my-image2,
+.my-image3,
+.my-image4 {
+  border-radius: 20px;
+}
+
+.my-image2,
+.my-image3 {
+  height: 220px;
+  width: 400px;
+  margin-left: -10px;
+}
+
+.my-image4 {
+  height: 220px;
+  margin-left: -10px;
+}
+
+.my-more {
+  background-color: #5ad3df;
+  width: 200px;
+  height: 30px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  font-weight: 800;
+  margin-left: 43.7%;
+  margin-top: 2%;
+  margin-bottom: 20px;
+}

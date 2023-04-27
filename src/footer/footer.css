@@ -1,0 +1,134 @@
+.fo-container {
+  background-color: #245086;
+}
+
+.fo-logo {
+  margin-top: 60px;
+  width: 70%;
+  height: 30%;
+}
+
+.fo-grid {
+  display: grid;
+  grid-template-columns: 280px 300px 400px;
+  justify-content: center;
+  margin-left: 22%;
+  width: 60%;
+  margin-top: 140px;
+}
+
+.fo-medium {
+  margin-left: 40%;
+}
+
+.fo-end {
+  margin-left: 30%;
+  margin-top: 70px;
+}
+
+.fo-text {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: -80px;
+}
+
+.fo-cell {
+  color: wheat;
+  margin-left: 40px;
+  margin-top: -18px;
+}
+
+.fo-logocell {
+  margin-top: 100px;
+}
+
+.fo-message {
+  color: wheat;
+  margin-left: 40px;
+  margin-top: -28px;
+}
+
+.fo-redes {
+  background-color: white;
+  width: 40px;
+  height: 41px;
+  text-align: center;
+  border-radius: 40px;
+  margin-top: 40px;
+  margin-left: 64%;
+}
+
+.fo-redes1 {
+  background-color: white;
+  width: 40px;
+  height: 41px;
+  text-align: center;
+  border-radius: 40px;
+  margin-top: -40px;
+  margin-left: 55px;
+}
+
+.fo-line {
+  margin-top: 60px;
+  width: 100%;
+  color: #245086;
+  padding-top: 10px;
+  margin-left: 100px;
+}
+
+.fo-subscribe {
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  font-weight: 900;
+  width: 120%;
+  margin-left: 10px;
+  padding-top: 16px;
+}
+
+.fo-input {
+  background-color: white;
+  text-align: center;
+  border-radius: 30px;
+  width: 130%;
+  height: 30px;
+  padding-top: 14px;
+}
+
+.fo-send {
+  background-color: #ff7e54;
+  width: 180px;
+  height: 30px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  font-weight: 500;
+  margin-left: 80px;
+  margin-top: 10px;
+}
+
+.fo-copy {
+  background-color: #ff7e54;
+  height: 80px;
+  margin-top: 30px;
+}
+
+.fo-copytext {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  padding-top: 20px;
+}
+
+.fo-copyrigth {
+  color: white;
+  text-align: center;
+  font-size: 12px;
+}
+
+.fo-face,
+.fo-insta {
+  margin-top: 10px;
+  font-size: 20px;
+}

@@ -1,0 +1,70 @@
+.cn-container {
+  position: relative;
+  background-color: rgb(253, 252, 250);
+  border-image: linear-gradient(to #eff1f3, #f6f7f5) 2;
+  border-width: 2px;
+  border-radius: 30px;
+  display: grid;
+  height: 165px;
+  grid-template-columns: 190px 190px 190px;
+  grid-gap: 1px;
+  justify-content: center;
+  margin-left: 32%;
+  width: 40%;
+  margin-top: -98px;
+}
+
+.cn-spacing {
+  width: 120px;
+  margin-left: 54px;
+  margin-top: 16px;
+}
+
+.cn-happy {
+  width: 30px;
+  margin-left: 20px;
+}
+
+.cn-counter {
+  width: 40px;
+}
+
+.cn-counter2 {
+  width: 58px;
+}
+
+.cn-number {
+  font-size: 40px;
+  color: #ff7e54;
+  font-weight: 700;
+}
+
+.cn-text {
+  font-size: 14px;
+  color: #245086;
+  text-align: center;
+  margin-left: -42px;
+}
+
+.cn-text1 {
+  font-size: 14px;
+  color: #245086;
+  text-align: center;
+  margin-left: -12px;
+  width: 80px;
+}
+
+.cn-vl {
+  border-left: 1px solid #235286;
+  height: 90px;
+  margin-left: 108%;
+  margin-top: -90%;
+}
+
+.cn-vl1 {
+  border-left: 1px solid #b5c1cf;
+  height: 90px;
+  margin-left: 108%;
+  margin-top: -87%;
+}
+

@@ -1,0 +1,95 @@
+@media (max-width: 800px) {
+  .my-enter {
+    background-color: #e4e4e4;
+    max-width: 428px;
+    height: 870px;
+  }
+
+  .my-title {
+    text-align: center;
+    font-size: 30px;
+    color: #245086;
+    font-weight: 900;
+    margin-left: 6px;
+  }
+
+  .my-logo {
+    margin-left: 40%;
+    margin-top: 0%;
+    padding-top: 60px;
+  }
+
+  .my-images {
+    display: grid;
+    height: 70px;
+    grid-template-columns: 150px 400px;
+    grid-template-rows: 100px 800px;
+    grid-gap: 6px;
+    justify-content: center;
+    margin-left: 50%;
+    width: 50%;
+    margin-top: 10px;
+  }
+
+  .my-images2 {
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-gap: 6px;
+    justify-content: center;
+    margin-left: 25%;
+    width: 30%;
+    margin-top: 140px;
+  }
+
+  .my-image {
+    border-radius: 20px;
+    height: 100px;
+    margin-left: -10px;
+  }
+
+  .my-image1 {
+    border-radius: 20px;
+    height: 200px;
+    width: 200px;
+    object-fit: none;
+  }
+
+  .my-image2 {
+    border-radius: 20px;
+    height: 200px;
+    width: 370px;
+    object-fit: none;
+    margin-left: 66%;
+  }
+
+  .my-image3 {
+    border-radius: 20px;
+    height: 180px;
+    width: 180px;
+    object-fit: none;
+    margin-top: 51%;
+    margin-left: -35.5%;
+  }
+
+  .my-image4 {
+    border-radius: 20px;
+    height: 180px;
+    width: 180px;
+    object-fit: none;
+    margin-top: -46.5%;
+    margin-left: 113%;
+  }
+
+  .my-more {
+    background-color: #5ad3df;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+    font-weight: 800;
+    margin-left: 25%;
+    margin-top: 4%;
+    margin-bottom: 20px;
+  }
+}

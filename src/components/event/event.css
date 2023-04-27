@@ -1,0 +1,81 @@
+.ev-container {
+  height: 900px;
+}
+.ev-logo {
+  margin-top: 5%;
+  margin-left: 47.9%;
+}
+
+.ev-title {
+  font-size: 55px;
+  font-weight: 900;
+  color: #245086;
+  margin-left: -46px;
+}
+
+.ev-images {
+  display: grid;
+  height: 450px;
+  grid-template-columns: 330px 330px 330px 330px;
+  grid-gap: 1px;
+  justify-content: center;
+  margin-left: 25%;
+  width: 50%;
+  margin-top: 50px;
+}
+
+.ev-formImages {
+  position: static;
+  border-radius: 20px;
+  height: 400px;
+  filter: brightness(70%);
+}
+
+.ev-formImages1 {
+  border-radius: 20px;
+  height: 400px;
+  filter: brightness(70%);
+}
+
+.ev-text {
+  position: relative;
+  font-size: 40px;
+  margin-top: -80%;
+  margin-left: 30%;
+  color: white;
+  font-weight: 950;
+}
+
+.ev-more {
+  background-color: #ef7a53;
+  width: 14%;
+  height: 35px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+  margin-left: 43.6%;
+}
+
+.ev-paragraph {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: black;
+  font-size: 16px;
+  margin-left: 40px;
+  margin-top: 8px;
+}
+
+.ev-button {
+  margin-top: 7px;
+}
+
+.ev-vl {
+  position: sticky;
+  border-left: 3px solid #ef7a53;
+  height: 120px;
+  margin-left: 50.6%;
+  margin-top: 22px;
+}
+
+

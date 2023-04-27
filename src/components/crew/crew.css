@@ -1,0 +1,84 @@
+.cw-crew {
+  background-color: rgb(246, 248, 250);
+  margin-top: -8%;
+  padding-top: 60px;
+  height: 650px;
+}
+
+.cw-table {
+  background-color: white;
+  border-left: 4rem solid #ff7e54;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 30px;
+  display: grid;
+  height: 420px;
+  grid-template-columns: 500px 500px;
+  grid-gap: 1px;
+  justify-content: center;
+  margin-left: 8%;
+  width: 84%;
+  border-radius: 20px;
+}
+
+.cw-container {
+  margin-left: -8%;
+}
+
+.cw-title {
+  font-size: 70px;
+  color: #154e85;
+  margin-top: 20px;
+}
+
+.cw-titlecolor {
+  font-size: 70px;
+  color: #ff7e54;
+  font-weight: 900;
+}
+.cw-text {
+  font-size: 13px;
+  color: dimgrey;
+}
+
+.cw-more {
+  background-color: #ef7a53;
+  width: 150px;
+  height: 26px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+  font-size: 13px;
+  margin-left: 35%;
+  margin-top: 20px;
+}
+
+.cw-sobreimage {
+  margin-top: 40px;
+}
+
+.cw-sobreimage  {
+  position: static;
+  border-radius: 20px;
+  margin-left: 40px;
+  width: 100%;
+  height: 38s0px;
+  background: url('/src/assets/event4.jpg');
+  object-fit: none;
+}
+
+.cw-sobreimage:hover {
+  position: static;
+  background: url("/src/assets/cristi.png");
+  object-fit: none;
+}
+
+.cw-vl {
+  border-left: 2px solid #ef7a53;
+  height: 160px;
+  position: relative;
+  margin-left: 50.6%;
+  margin-top: 40px;
+}
+

@@ -1,0 +1,151 @@
+@media (max-width: 800px) {
+  .fo-container {
+    background-color: #245086;
+    max-width: 428px;
+  }
+
+  .fo-logo {
+    margin-top: 80px;
+    margin-left: 12%;
+    width: 70%;
+    height: 30%;
+  }
+
+  .fo-text {
+    color: white;
+    text-align: center;
+    margin-top: 18px;
+    margin-left: -22px;
+  }
+
+  .fo-end {
+    margin-left: -20%;
+    margin-top: -138%;
+    padding: 20px;
+  }
+
+  .fo-subscribe {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    width: 90%;
+    margin-left: 35px;
+    padding-top: 28px;
+  }
+
+  .fo-input {
+    background-color: white;
+    text-align: center;
+    border-radius: 30px;
+    width: 90%;
+    height: 38px;
+    padding-top: 1px;
+    margin-left: 38px;
+  }
+
+  .fo-send {
+    background-color: #ff7e54;
+    width: 180px;
+    height: 38px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    margin-left: 80px;
+    margin-top: 10px;
+  }
+
+  .fo-grid {
+    display: grid;
+    grid-template-columns: 280px;
+    justify-content: center;
+    margin-left: 22%;
+    width: 60%;
+    margin-top: 140px;
+  }
+
+  .fo-medium {
+    margin-left: 40%;
+    padding-top: 120px;
+  }
+
+  .fo-cell {
+    color: wheat;
+    margin-left: -25px;
+    margin-top: -25px;
+  }
+
+  .fo-logocell {
+    margin-top: 100px;
+    margin-left: -40%;
+  }
+
+  .fo-message {
+    color: wheat;
+    margin-left: 40px;
+    margin-top: -30px;
+    margin-left: -25px;
+  }
+
+  .fo-logomessage {
+    margin-left: -40%;
+    padding-top: 16px;
+  }
+
+  .fo-redes {
+    background-color: white;
+    width: 40px;
+    height: 41px;
+    text-align: center;
+    border-radius: 40px;
+    margin-top: 40px;
+    margin-left: -30px;
+  }
+
+  .fo-redes1 {
+    background-color: white;
+    width: 40px;
+    height: 41px;
+    text-align: center;
+    border-radius: 40px;
+    margin-top: -41px;
+    margin-left: 30px;
+  }
+
+  .fo-line {
+    margin-top: 60px;
+    width: 100%;
+    color: #245086;
+    padding-top: 10px;
+    margin-left: 100px;
+  }
+  .fo-face {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  .fo-insta {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  .fo-copy {
+    background-color: #ff7e54;
+    height: 80px;
+    margin-top: 30px;
+  }
+
+  .fo-copytext {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 20px;
+  }
+
+  .fo-copyrigth {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+  }
+}

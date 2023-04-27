@@ -1,0 +1,94 @@
+@media (max-width: 800px) {
+  .jn-crew {
+    margin-top: 60%;
+    height: 300px;
+    max-width: 428px;
+  }
+
+  .jn-table {
+    background-color: white;
+    display: grid;
+    height: 540px;
+    grid-template-columns: 320px;
+    grid-gap: 1px;
+    justify-content: center;
+    margin-left: 10%;
+    width: 84%;
+    border-radius: 20px;
+  }
+
+  .jn-title {
+    font-size: 50px;
+    color: #154e85;
+    margin-top: -150px;
+  }
+
+  .jn-titlecolor {
+    font-size: 50px;
+    color: #ff7e54;
+    font-weight: 900;
+  }
+  .jn-text {
+    color: #285c58;
+    font-size: 16px;
+  }
+
+  .jn-input {
+    width: 90%;
+    padding: 12px 12px;
+    margin: 6px 0;
+    border-radius: 30px;
+    box-sizing: border-box;
+    border: 2px solid #a5a0a0;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    text-align: center;
+    margin-left: 16px;
+  }
+
+  .jn-input:focus {
+    border: 1px solid #555;
+  }
+
+  .jn-input-text {
+    width: 90%;
+    padding: 30px 12px;
+    margin: 8px 0;
+    border-radius: 30px;
+    box-sizing: border-box;
+    border: 2px solid #a5a0a0;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    text-align: center;
+    margin-left: 20px;
+  }
+
+  .jn-input-text:focus {
+    border: 1px solid #555;
+  }
+
+  .jn-more {
+    background-color: #ef7a53;
+    width: 180px;
+    height: 40px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    margin-left: 20%;
+    margin-top: 20px;
+  }
+
+  .jn-sobreimage {
+    margin-top: 40px;
+  }
+
+  .jn-image {
+    border-radius: 20px;
+    margin-left: 12px;
+    width: 88%;
+    margin-top: -266%;
+  }
+}

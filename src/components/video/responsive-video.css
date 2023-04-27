@@ -1,0 +1,47 @@
+@media (max-width: 800px) {
+  .vid-container {
+    height: 330px;
+  }
+
+  .vid-logo {
+    display: none;
+  }
+
+  .vid-message {
+    display: none;
+  }
+
+  .vid-video {
+    float: left;
+    padding: 1px;
+    max-width: 428px;
+    margin-top: 94px;
+    margin-left: 0px;
+    border-radius: 3rem;
+  }
+
+  .vid-vl {
+    display: none;
+  }
+
+  .vid-join {
+    display: none;
+    /*  position: relative;
+      margin-left: 30%;
+      margin-top: 40px;
+      background-color: white;
+      color: dimgrey;
+      width: 50%;
+      height: 50px;
+      text-align: center;
+      border-radius: 50px; */
+  }
+
+  .vid-leter {
+    display: none;
+  }
+
+  .vid-heart {
+    display: none;
+  }
+}

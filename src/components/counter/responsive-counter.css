@@ -1,0 +1,78 @@
+@media (max-width: 800px) {
+  .cn-container {
+    position: relative;
+    background-color: rgb(253, 252, 250);
+    border-image: linear-gradient(to #eff1f3, #f6f7f5) 2;
+    border-width: 2px;
+    border-radius: 30px;
+    display: grid;
+    height: 520px;
+    grid-template-columns: 180px;
+    grid-gap: 1px;
+    justify-content: center;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: -4px;
+  }
+
+  .cn-spacing {
+    width: 120px;
+    margin-left: 50px;
+    margin-top: 16px;
+  }
+
+  .cn-happy {
+    width: 30px;
+    margin-left: 28px;
+  }
+
+  .cn-counter {
+    width: 40px;
+    margin-left: 20px;
+  }
+
+  .cn-counter2 {
+    width: 58px;
+    margin-left: 16px;
+  }
+
+  .cn-number {
+    font-size: 40px;
+    color: #ff7e54;
+    font-weight: 700;
+    margin-left: 10px;
+  }
+
+  .cn-text {
+    font-size: 14px;
+    color: #245086;
+    text-align: center;
+    margin-left: -42px;
+  }
+
+  .cn-text1 {
+    font-size: 14px;
+    color: #245086;
+    text-align: center;
+    margin-left: 1px;
+    width: 80px;
+  }
+
+  .cn-vl {
+    border-top: 1px solid #245086;
+    height: 2px;
+    max-width: 120px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+    margin-left: -15px;
+  }
+
+  .cn-vl1 {
+    border-top: 1px solid #b5c1cf;
+    height: 2px;
+    max-width: 120px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+    margin-left: -20px;
+  }
+}

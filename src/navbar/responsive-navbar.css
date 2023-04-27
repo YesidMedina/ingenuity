@@ -1,0 +1,80 @@
+@media (max-width: 800px) {
+  .nav {
+    max-width: 428px;
+   
+  }
+  .nav > .nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 10px;
+    top: -4px;
+  }
+  .nav > .nav-btn > label {
+    display: inline-block;
+    width: 90px;
+    height: 80px;
+    padding: 19px;
+  }
+
+  .nav > .nav-btn > label:hover,
+  .nav #nav-check:checked ~ .nav-btn > label {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .nav > .nav-btn > label > span {
+    display: block;
+    width: 25px;
+    height: 15px;
+    margin-left: -10px;
+    margin-top: 2px;
+    border-top: 5px solid #eee;
+  }
+
+  .nav-btn {
+    margin-top: 15px;
+  }
+
+  .nav-check {
+    height: 500px;
+    width: 500px;
+  }
+
+  .nav > .nav-links {
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: #333;
+    height: 0px;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 50px;
+    left: 0px;
+  }
+  .nav > .nav-links > a {
+    display: block;
+    width: 100%;
+  }
+  .nav > #nav-check:not(:checked) ~ .nav-links {
+    height: 25px;
+  }
+  .nav > #nav-check:checked ~ .nav-links {
+    height: calc(1000vh - 50px);
+    overflow-y: auto;
+  }
+
+  .nav-instagram {
+    display: none;
+  }
+
+  .nav-facebook {
+    display: none;
+  }
+
+  .nav-name {
+    display: none;
+  }
+
+  .nav-logo {
+    height: 70px;
+    margin-left: -2%;
+  }
+}

@@ -1,0 +1,87 @@
+.nw-enter {
+  background-color: rgb(246, 248, 250);
+  height: 860px;
+}
+
+.nw-container {
+  background-color: #245086;
+  border-radius: 10%;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 52, 115, 1) 0%,
+    rgba(8, 189, 171, 1) 100%
+  );
+  height: 910px;
+
+}
+
+.nw-title {
+  text-align: center;
+  font-size: 40px;
+  color: #ff7e54;
+}
+
+.nw-titlecolor {
+  font-weight: 800;
+  color: white;
+}
+
+.nw-text {
+  font-size: 13px;
+  color: white;
+  text-align: center;
+}
+
+.nw-url {
+  position: absolute;
+  margin-left: 61%;
+  color: white;
+  font-size: 13px;
+}
+
+.nw-logo {
+  margin-left: 48%;
+  padding-top: 7%;
+}
+
+.nw-images {
+  display: grid;
+  height: 80px;
+  grid-template-columns: 320px 320px 320px 320px;
+  grid-gap: 2px;
+  justify-content: center;
+  margin-left: 25%;
+  width: 50%;
+  margin-top: 80px;
+}
+
+.nw-image {
+  border-radius: 20px;
+  height: 400px;
+}
+
+.nw-more {
+  background-color: #ef7a53;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+  margin-left: 46%;
+  margin-top: 25%;
+  margin-bottom: 20px;
+}
+
+.nw-leter {
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.nw-vl {
+  border-left: 3px solid #ef7a53;
+  height: 110px;
+  position: relative;
+  margin-left: 50.2%;
+  margin-top: 50px;
+}

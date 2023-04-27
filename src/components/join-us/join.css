@@ -1,0 +1,86 @@
+.jn-crew {
+  margin-top: 8%;
+}
+
+.jn-table {
+  background-color: white;
+  display: grid;
+  height: 470px;
+  grid-template-columns: 500px 580px;
+  grid-gap: 1px;
+  justify-content: center;
+  margin-left: 8%;
+  width: 84%;
+  border-radius: 20px;
+}
+
+.jn-title {
+  font-size: 70px;
+  color: #154e85;
+  margin-top: 20px;
+}
+
+.jn-titlecolor {
+  font-size: 70px;
+  color: #ff7e54;
+  font-weight: 900;
+}
+.jn-text {
+  color: #285c58;
+}
+
+.jn-input {
+  width: 90%;
+  padding: 8px 12px;
+  margin: 8px 0;
+  border-radius: 30px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  text-align: center;
+}
+
+.jn-input:focus {
+  border: 1px solid #555;
+}
+
+.jn-input-text {
+  width: 90%;
+  padding: 30px 12px;
+  margin: 8px 0;
+  border-radius: 30px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  text-align: center;
+}
+
+.jn-input-text:focus {
+  border: 1px solid #555;
+}
+
+.jn-more {
+  background-color: #ef7a53;
+  width: 220px;
+  height: 30px;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  font-weight: 500;
+  margin-left: 18%;
+  margin-top: 20px;
+}
+
+.jn-sobreimage {
+  margin-top: 40px;
+}
+
+.jn-image {
+  border-radius: 20px;
+  margin-left: 80px;
+  width: 90%;
+}

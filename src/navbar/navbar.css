@@ -1,0 +1,112 @@
+
+.nav {
+  height: 100px;
+  width: 100%;
+  background-color: rgba(0, 57, 122, 0.8);
+  position: fixed;
+  max-width: 81%;
+}
+
+.nav-header {
+  display: inline;
+}
+
+.nav-title {
+  display: inline-block;
+  font-size: 22px;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.nav-logo {
+  width: 195px;
+  height: 87px;
+  margin-left: 6%;
+  padding-top: 15px;
+}
+
+.nav-instagram {
+  background-color: #ef7a53;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  border-radius: 40px;
+  position: fixed;
+  margin-top: -55px;
+  margin-left: 72%;
+}
+
+.nav-text-instagram {
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 15px;
+
+}
+
+.nav-facebook {
+  background-color: #ef7a53;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  border-radius: 40px;
+  position: absolute;
+  margin-top: -55px;
+  margin-left: 93%;
+}
+
+.nav-text-facebook {
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 15px;
+}
+
+.nav-btn {
+  display: none;
+}
+
+.nav-links {
+  width: 50%;
+  margin: auto;
+  margin-top: -50px;
+  overflow: hidden;
+  margin-left: 22%;
+}
+
+.nav-links > a {
+  float: left;
+  display: block;
+  font-weight: 800;
+  text-decoration: none;
+  color: #efefef;
+  margin-left: 22px;
+}
+
+.nav-home {
+  font-size: 13px;
+  padding-left: 26px;
+}
+
+.nav-home-office {
+  font-size: 13px;
+  padding-left: 26px;
+  width: 100px;
+  margin-top: -5px;
+}
+
+.nav-name {
+  background-color: aqua;
+  width: 200px;
+  height: 32px;
+  text-align: center;
+  border-radius: 20px;
+  position: absolute;
+  color: #003473;
+  margin-left: 71%;
+  margin-top: -55px;
+}
+
+.nav-textname {
+  margin-top: 6px;
+  font-weight: 600;
+  font-size: 13px;
+}
